@@ -1,8 +1,12 @@
 # Examen-2-DesWeb
 Agua y drenaje
 
-Archivos principales:
+Equipo:
+Leonardo Daniel Vazquez Meza 1897973
+Jose Emilio Rivera Reyna
 
+
+Archivos principales:
 main.py: Es el archivo que corre la API y conecta todo.
 
 models.py: Tiene las validaciones de los datos.
